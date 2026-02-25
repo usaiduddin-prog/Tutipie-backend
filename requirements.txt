@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+playwright
+sentence-transformers 
+faiss-cpu 
+tqdm 
+rank-bm25
+numpy
+python-dotenv
+uvicorn
+fastapi
+requests
+pytesseract
